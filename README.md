@@ -10,13 +10,13 @@
 
 # Tech Stack 💗
 
-![HTML5](https://img.shields.io/badge/-HTML5-ff9a9e?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-a18cd1?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-fbc2eb?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-ffecd2?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-c2e9fb?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/-React-fad0c4?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-a1c4fd?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-BAC0FF?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-FFBABA?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-fbc2eb?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-8FCBFA?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffecd2?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-BAE1FF?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-C2EDC7?style=for-the-badge&logo=node.js&logoColor=white)
 ---
 
 # Tools and Platforms  🌸
