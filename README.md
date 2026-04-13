@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&pause=1000&color=FF8DA1&center=true&vCenter=true&width=835&height=100&lines=Hi+there!+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
-🎓 Hi! I'm Nirvana, a first-year student at Northern Virginia Community College simultaneously with George Mason University to pursue my Bachelor's degree in Computer Science.
+🎓 I'm Nirvana, a first-year student at Northern Virginia Community College simultaneously with George Mason University to pursue my Bachelor's degree in Computer Science.
 
-💼 I'm an upcoming Software Engineer with a focus on QA Testing/Automation and Frontend development; Currently learning/enhancing my knowledge in Selenium, React, HTML CSS, and JavaScript.
+💼 I'm an upcoming Software Engineer with a focus on QA Testing/Automation and Frontend development; Currently focusing on learning Selenium, React, HTML, CSS, and JavaScript.
 
 🎨 When I'm not programming, I'm... designing fashion, travelling, or gaming :)
 
