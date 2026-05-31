@@ -2,15 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&pause=1000&color=FF8DA1&center=true&vCenter=true&width=835&height=100&lines=Hi+there!+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
-🎓 I'm Nirvana, a first-year student at Northern Virginia Community College simultaneously with George Mason University to pursue my Bachelor's degree in Computer Science.
+🎓 I'm Nirvana, a first-year student at George Mason University through the ADVANCE program, to pursue my Bachelor's degree in Computer Science.
 
-💼 I'm an upcoming Software Engineer with a focus on QA Testing/Automation and Frontend development; Currently focusing on learning Selenium, React, HTML, CSS, and JavaScript.
+💼 I'm an upcoming Software Engineer exploring UI/UX and QA Testing; Currently focused on learning Figma, React, and enhancing my HTML, CSS, and JavaScript.
 
-🎨 When I'm not programming, I'm... designing fashion, travelling, or gaming :)
+🎨 When I'm not programming, I'm... designing visuals, exploring new places, or gaming :)
 
 # Tech Stack 💗
 
-![Python](https://img.shields.io/badge/-Python-BAC0FF?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-BAC0FF?style=for-the-badge&logo=python&logoColor=white)-
 ![Java](https://img.shields.io/badge/-Java-FFBABA?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-fbc2eb?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-8FCBFA?style=for-the-badge&logo=css&logoColor=white)
